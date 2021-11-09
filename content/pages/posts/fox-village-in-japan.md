@@ -4,7 +4,7 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: Imi place sa-l bat la cap pe EG
-date: '2020-01-09'
+date: '2020-01-01'
 thumb_img_path: /images/IMG_3631 (2).JPG
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
