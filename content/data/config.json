@@ -4,7 +4,6 @@
     "palette": "yellow",
     "header": {
         "tagline": "Programator",
-        "logo_img": "images/logo.svg",
         "logo_img_alt": "Agnesa Logo",
         "background_img": "/images/home.jpg",
         "has_nav": true,
